@@ -1,2 +1,2 @@
 # DataScience_EDA
-Exploitory data analysis
+Exploratory data analysis
